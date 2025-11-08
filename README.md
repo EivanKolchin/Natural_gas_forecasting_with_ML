@@ -70,7 +70,5 @@ The resulting model provides smooth extrapolation suitable for natural gas stora
 🔧 Technologies Used
 Category	Tools
 Language	Python
-Data	Pandas, NumPy
-Visualization	Matplotlib, Seaborn
-Modeling	Scikit-learn, XGBoost, Prophet, TensorFlow/Keras
-Version Control	Git, GitHub
+Data	Pandas, NumPy,	Matplotlib, Seaborn
+Modeling	Scikit-learn, Keras, GitHub
